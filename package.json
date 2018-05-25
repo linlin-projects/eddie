@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
         "apollo-client-preset": "^1.0.8",
+        "color": "^3.0.0",
         "graphql": "^0.13.2",
         "graphql-tag": "^2.9.2",
         "react": "^16.3.2",
@@ -27,6 +28,7 @@
         "@storybook/addon-options": "^3.4.5",
         "@storybook/react": "^3.4.5",
         "babel-core": "^6.26.3",
-        "radium": "^0.24.0"
+        "radium": "^0.24.0",
+        "react-test-renderer": "^16.4.0"
     }
 }
